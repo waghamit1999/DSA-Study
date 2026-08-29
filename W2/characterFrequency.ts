@@ -8,5 +8,6 @@ function characterFrequency(text: string): Map<string, number> {
   return frequency;
 }
 
-console.log(characterFrequency("Amit Waghmare"));
-console.log(characterFrequency("Programming"));
+// console.log(characterFrequency("Amit Waghmare"));
+// console.log(characterFrequency("Programming"));
+console.log(characterFrequency("AAAmmiiiiittttt"));
